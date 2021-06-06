@@ -27,7 +27,7 @@ class Game {
     }
 
     play() {
-        textSize("Race Started");
+        textSize(40);
         text ("game start", 100,100);
 
         player.getPlayerDetails();
